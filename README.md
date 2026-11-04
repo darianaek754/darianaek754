@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy [Tu Nombre]
+👋 ¡Hola! Soy dariana
 
 💻 Desarrollador apasionado por la tecnología y la programación.
 
