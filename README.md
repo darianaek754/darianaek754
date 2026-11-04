@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**darianaek754/darianaek754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador apasionado por la tecnología y la programación.
 
-Here are some ideas to get you started:
+    🌱 Actualmente aprendiendo nuevas tecnologías.
+    🚀 Trabajando en proyectos personales.
+    💡 Me gusta crear soluciones innovadoras.
+    🎯 Siempre buscando nuevos retos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" /> </p>
+📊 GitHub Stats
+
+<p> <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/> </p>
